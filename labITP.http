@@ -1,0 +1,6 @@
+@labITP_HostAddress = http://localhost:5270
+
+GET {{labITP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
